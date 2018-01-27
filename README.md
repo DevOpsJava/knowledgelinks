@@ -1,10 +1,16 @@
 # DevOpsJava knowledgelinks
+This repo is meant to be a quick overview of the toolchain in bankdata and where it is going.  
+
+
+<B>UNDER CONSTRUCTION<b>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/CanaleteConstru%C3%A7%C3%A3o.png">
+
 1. DevOps
 2. Infrastructure
 3. Recommended frameworks
 4. Recommended links
-5. Investigate
-6. Study
+5. Study
+6. Investigate
 
 
 
@@ -87,18 +93,18 @@ Youtube channel - ThoughtWorks, Jez Humble worked here]
 groovy / java / js / node / xml / html
 
 ### Scripting
-Shell / batch
+Shell / batch / groovy
 
 ### Console
-Conemu / gitbash / powershell
+Conemu / gitbash / powershell / cmd
 
 ### Host
 OPC / sar / rexx / jcl
 
-### Study
+## 5. Study
 tdd / continuous delivery / ratpack
 
 
-### Investigate further
+## 6. Investigate further
 Elastic search / Kibana
 selinoid
